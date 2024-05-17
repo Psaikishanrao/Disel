@@ -1,0 +1,368 @@
+{
+  "userData": [
+    {
+      "username": "ankit",
+      "email": "ankit@mail",
+      "password": "ankit@mail",
+      "id": 1
+    },
+    {
+      "username": "sai",
+      "email": "sai@mail",
+      "password": "sai@mail",
+      "id": 2
+    },
+    {
+      "username": "link",
+      "email": "link@mail",
+      "password": "link@mail",
+      "id": 3
+    },
+    {
+      "username": "testing",
+      "email": "test@mail.com",
+      "password": "testing123",
+      "id": 4
+    }
+  ],
+  "data": [
+    {
+      "men": [
+        {
+          "id": 1,
+          "type": "M",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410315233010/665/410315233010_7.webp",
+          "details": "2019 D-Strukt Slim Fit Man Blue Medium Washed Jeans",
+          "disc": 21999,
+          "mrp": 13199,
+          "off": "(40% Off)",
+          "catg": "jeans",
+          "color": "Blue"
+        },
+        {
+          "id": 2,
+          "type": "M",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410315313005/665/410315313005_1.webp",
+          "details": "S-Ginn Regular Fit Men Blue Sweater ",
+          "disc": 18999,
+          "mrp": 13399,
+          "off": "(40% Off)",
+          "catg": "sweater",
+          "color": "Blue"
+        },
+        {
+          "id": 3,
+          "type": "M",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410128432010/665/410128432010_1.webp",
+          "details": "Mharky Skinny Fit Man Blue Medium Washed Jeans ",
+          "disc": 17990,
+          "mrp": 10794,
+          "off": "(40% Off)",
+          "catg": "jeans",
+          "color": "Blue"
+        },
+        {
+          "id": 4,
+          "type": "M",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410315103005/665/410315103003_1_2604.webp",
+          "details": "S-BEN-CL Regular Men Black Shirt",
+          "disc": 16999,
+          "mrp": 8499,
+          "off": "(50% Off)",
+          "catg": "shirt",
+          "color": "Black"
+        },
+        {
+          "id": 5,
+          "type": "M",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410291502010/665/410291502010_1.webp",
+          "details": "D-Strukt Slim Fit Man Blue Medium Washed Jeans ",
+          "disc": 21999,
+          "mrp": 13199,
+          "off": "(40% Off)",
+          "catg": "jeans",
+          "color": "Blue"
+        },
+        {
+          "id": 6,
+          "type": "M",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410315103010/665/410315103008_1_2318.webp",
+          "details": "S-BEN-CL Regular Men White Shirt",
+          "disc": 16999,
+          "mrp": 8499,
+          "off": "(50% Off)",
+          "catg": "shirt",
+          "color": "White"
+        },
+        {
+          "id": 7,
+          "type": "M",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410271676009/665/410271676003_1.webp",
+          "details": "D-Strukt Slim Fit Man Green Medium Washed Jeans ",
+          "disc": 24999,
+          "mrp": 14999,
+          "off": "(40% Off)",
+          "catg": "jeans",
+          "color": "Green"
+        },
+        {
+          "id": 8,
+          "type": "M",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410315144015/665/410315144013_1_2047.webp",
+          "details": "T-SMITH-D Slim Fit Men White Polo",
+          "disc": 9999,
+          "mrp": 4999,
+          "off": "(50% Off)",
+          "catg": "polo",
+          "color": "White"
+        },
+        {
+          "id": 9,
+          "type": "M",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410279618009/665/410279618009_1.webp",
+          "details": "D-Amny Skinny Fit Man Black Medium Washed Jeans ",
+          "disc": 21999,
+          "mrp": 13199,
+          "off": "(40% Off)",
+          "catg": "jeans",
+          "color": "Black"
+        },
+        {
+          "id": 10,
+          "type": "M",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410315405009/665/410315405009_1_9870.webp",
+          "details": "1979 Sleenker Skinny Fit Man Black Medium Washed Jeans ",
+          "disc": 15999,
+          "mrp": 9599,
+          "off": "(40% Off)",
+          "catg": "jeans",
+          "color": "Black"
+        },
+        {
+          "id": 11,
+          "type": "M",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410291490001/665/410291490001_1.webp",
+          "details": "S-Loomy Loose Fit Men Blue Shirt",
+          "disc": 16999,
+          "mrp": 8499,
+          "off": "(50% Off)",
+          "catg": "shirt",
+          "color": "Blue"
+        }
+      ],
+      "women": [
+        {
+          "id": 12,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345213007/665/410345213007_1_2719.webp",
+          "details": "1994 Straight Fit Woman Blue Medium Washed Jeans ",
+          "disc": 29999,
+          "mrp": 14999,
+          "off": "(50% Off)",
+          "catg": "jeans",
+          "color": "Blue"
+        },
+        {
+          "id": 13,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372622004/665/410372622004_1_4667.webp",
+          "details": "T-SLIDART Regular Pink Woman T-shirt",
+          "disc": 10999,
+          "mrp": 6599,
+          "off": "(40% Off)",
+          "catg": "t-shirt",
+          "color": "Pink"
+        },
+        {
+          "id": 14,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410344989005/665/410344989005_1_1636.webp",
+          "details": "1969 D-Ebbey Bootcut Fit Woman Blue Medium Washed Jeans ",
+          "disc": 15999,
+          "mrp": 7999,
+          "off": "(50% Off)",
+          "catg": "jeans",
+          "color": "Blue"
+        },
+        {
+          "id": 15,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372572008/665/410372572008_1_3507.webp",
+          "details": "T-REG-DIV Regular Woman T-shirt",
+          "disc": 6999,
+          "mrp": 4199,
+          "off": "(40% Off)",
+          "catg": "t-shirt",
+          "color": "Orange"
+        },
+        {
+          "id": 16,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345065001/665/410345065001_1_4576.webp",
+          "details": "C-GISEY-STR Regular Fit Women Pink Shirt",
+          "disc": 19999,
+          "mrp": 9999,
+          "off": "(50% Off)",
+          "catg": "shirt",
+          "color": "Pink"
+        },
+        {
+          "id": 17,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345273006/665/410345273006_1_6786.webp",
+          "details": "D-Escription-FSB Bootcut Fit Woman Blue Medium Washed Jeans ",
+          "disc": 26999,
+          "mrp": 13499,
+          "off": "(50% Off)",
+          "catg": "jeans",
+          "color": "Blue"
+        },
+        {
+          "id": 18,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372552004/665/410372552004_1_9794.webp",
+          "details": "F-REGGY-HOOD-DOVAL-PJ Regular Pink Woman Sweater ",
+          "disc": 19999,
+          "mrp": 11999,
+          "off": "(40% Off)",
+          "catg": "sweater",
+          "color": "Pink"
+        },
+        {
+          "id": 19,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345238007/665/410345238007_1_9617.webp",
+          "details": "1969 D-Ebbey Bootcut Fit Woman Blue Medium Washed Jeans ",
+          "disc": 26999,
+          "mrp": 13499,
+          "off": "(50% Off)",
+          "catg": "jeans",
+          "color": "Blue"
+        },
+        {
+          "id": 20,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372551003/665/410372551003_1_9712.webp",
+          "details": "P-ZAM-DOVAL-PJ Pink Woman Regular Pants",
+          "disc": 16999,
+          "mrp": 10199,
+          "off": "(40% Off)",
+          "catg": "jeans",
+          "color": "Pink"
+        },
+        {
+          "id": 21,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345246007/665/410345246007_1_7320.webp",
+          "details": "1956-SP Straight Fit Woman Blue Medium Washed Jeans ",
+          "disc": 24999,
+          "mrp": 12499,
+          "off": "(50% Off)",
+          "catg": "jeans",
+          "color": "Blue"
+        },
+        {
+          "id": 22,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345016001/665/410345016001_1_8689.webp",
+          "details": "F-REGGY-HOOD-IND Regular Women Violet Sweater ",
+          "disc": 18999,
+          "mrp": 11399,
+          "off": "(40% Off)",
+          "catg": "sweater",
+          "color": "Violet"
+        },
+        {
+          "id": 23,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345225007/665/410345225007_1_8875.webp",
+          "details": "D-Pilut Straight Fit Woman Grey Medium Washed Jeans ",
+          "disc": 26999,
+          "mrp": 13499,
+          "off": "(50% Off)",
+          "catg": "jeans",
+          "color": "Grey"
+        },
+        {
+          "id": 24,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372553002/665/410372553002_1_1748.webp",
+          "details": "D-TENNY-DOVAL-PJ Regular Patch Black Dress",
+          "disc": 16999,
+          "mrp": 10199,
+          "off": "(40% Off)",
+          "catg": "shirt",
+          "color": "Black"
+        },
+        {
+          "id": 25,
+          "type": "F",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345009007/665/410345009007_1_9207.webp",
+          "details": "1969 D-Ebbey Bootcut Fit Woman White Clean Jeans ",
+          "disc": 17999,
+          "mrp": 8999,
+          "off": "(50% Off)",
+          "catg": "jeans",
+          "color": "White"
+        }
+      ],
+      "kid": [
+        {
+          "id": 26,
+          "type": "K",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410271524005/665/410271524005_1_8902.webp",
+          "details": "PAKONY Regular Kid Black Pants ",
+          "disc": 7999,
+          "mrp": 3999,
+          "catg": "jeans",
+          "off": "(50% Off)",
+          "color": "Black"
+        },
+        {
+          "id": 27,
+          "type": "K",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345350005/665/410345350005_1_5872.webp",
+          "details": "SRAGLEN OVER Kid Regular Fit Sweater ",
+          "disc": 9999,
+          "mrp": 4999,
+          "catg": "sweater",
+          "off": "(50% Off)",
+          "color": "Blue"
+        },
+        {
+          "id": 28,
+          "type": "K",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345358005/665/410345358005_1_3427.webp",
+          "details": "1979 SLEENKER-J Skinny Kid Black Jeans ",
+          "disc": 9999,
+          "mrp": 4999,
+          "catg": "jeans",
+          "off": "(50% Off)",
+          "color": "Black"
+        },
+        {
+          "id": 29,
+          "type": "K",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345350010/665/410345350010_1_7066.webp",
+          "details": "SRAGLEN OVER Kid Regular Fit Sweater ",
+          "disc": 9999,
+          "mrp": 4999,
+          "catg": "sweater",
+          "off": "(50% Off)",
+          "color": "Red"
+        },
+        {
+          "id": 30,
+          "type": "K",
+          "icon": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345361005/665/410345361005_1_4532.webp",
+          "details": "1979 SLEENKER-J JJJ Skinny Kid Blue Jeans ",
+          "disc": 11999,
+          "mrp": 5999,
+          "catg": "jeans",
+          "off": "(50% Off)",
+          "color": "Blue"
+        }
+      ]
+    }
+  ]
+}

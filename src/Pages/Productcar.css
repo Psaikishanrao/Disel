@@ -1,0 +1,52 @@
+container{
+    max-width: 500px;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+.container{
+    max-width: 100%;
+    height: auto;
+}
+.men{
+   
+    max-width: 100%;
+    max-height: 40rem;
+
+}
+.women{
+    
+    max-width: 100%;
+    max-height: 40rem;
+  
+}
+.kid{
+    
+    max-width: 100%;
+    max-height: 40rem;
+}
+image{
+    width:100%
+}
+@media (min-width: 768px) {
+    /* For large screens (tablets and above) */
+    .men, .women, .kid {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+  }
+  @media (max-width: 576px) {
+    .men, .women, .kid {
+      max-height: 100rem;
+    }
+  
+    .image {
+      width: 100%;
+    }
+  }  
