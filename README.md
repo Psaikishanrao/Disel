@@ -10,7 +10,7 @@ This project is an ecommerce platform, clone of www.diesel.com
 ## To use this project
 
  - [Fork it in your repository](https://github.com/Ankit-saw07/bugbuster)
- - [Clone it in your local folder using https/ssh link](https://github.com/Ankit-saw07/bugbuster.git)
+ - [Clone it in your local folder using https/ssh link](https://github.com/Psaikishanrao/Disel.git)
 
 - Host the db.json file in local port(json-server --watch db.json --port 3030)
 - Detailed steps are mentioned below
