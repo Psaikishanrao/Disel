@@ -20,7 +20,7 @@ This project is an ecommerce platform, clone of www.diesel.com
 Steps for working in github:-
 1. make a new folder in your system.
 2. open the new folder in vs code and write in terminal
-git clone https://github.com/Ankit-saw07/bugbuster.git
+git clone (https://github.com/Psaikishanrao/Disel.git)
 3. go to the working folder
 4. npm install (to install all the dependencies,write this in bash terminal)
 5. npm start (to start the react app)
