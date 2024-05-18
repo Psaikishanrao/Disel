@@ -5,14 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is an ecommerce platform, clone of www.diesel.com
 
-This project is developed by members of TEAM Bug-Buster.
-Bug-Buster Team-
-1. Ankit kumar
-2. Sai Kishan Rao
-3. Sanghamitra Dash
-4. Shristi Mohapatra
-5. Shreeyam Mohanty
-6. Puja Kumari
+
 
 ## To use this project
 
