@@ -45,7 +45,7 @@ Steps to make your own branch and commit:-
   git stash
 
 ## Using netlify link.
-- [Netlify App](https://github.com/Ankit-saw07/bugbuster](https://64c4890b6d214d2e76be1f30--storied-churros-9ccf82.netlify.app/)
+- (Hosted on vercel)https://disel-ebon.vercel.app/
 - To use the link, host the db.json filr in your local host in port 3030
 - db.json file is available in the source code
 
