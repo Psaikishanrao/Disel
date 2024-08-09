@@ -23,13 +23,15 @@
     "slick-carousel": "^1.8.1",
     "swiper": "^10.0.4",
     "web-vitals": "^2.1.4",
-    "yup": "^1.2.0"
+    "yup": "^1.2.0",
+    "serve": "^14.2.0"
   },
   "scripts": {
-   "start": "PORT=10000 react-scripts start",
+    "start": "react-scripts build && serve -s build", 
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "start-dev": "node --max_old_space_size=1024 node_modules/.bin/react-scripts start" 
   },
   "eslintConfig": {
     "extends": [
