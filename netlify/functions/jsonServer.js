@@ -5,8 +5,7 @@ const serverless = require('serverless-http');
 
 const app = express();
 
-
-const dbFilePath = path.resolve(__dirname, '../../db.json'); 
+const dbFilePath = path.resolve(__dirname, '../../db.json');
 const dbData = JSON.parse(fs.readFileSync(dbFilePath, 'utf-8'));
 
 app.get('/api/:resource', (req, res) => {
