@@ -41,6 +41,7 @@ import {
   Icon,
 } from "@chakra-ui/react";
 import { HamburgerIcon, CloseIcon, MoonIcon } from "@chakra-ui/icons";
+import { px } from "framer-motion";
 
 export const Navbar = () => {
   const { isOpen, onOpen, onClose } = useDisclosure();
@@ -50,7 +51,7 @@ export const Navbar = () => {
   return (
     <>
       <Box id="navbar"
-        backgroundColor={"#e31f2e"}
+        backgroundColor={"#fc0004"}
         px={4}
         h={{ base: "4.25rem", md: "6rem" }}
         w={"100%"}
@@ -165,11 +166,13 @@ export const Navbar = () => {
             </Link>
           </Box> */}
           {isMobile ? null : ( 
-            <Box
-              ml={{ base: "0", md: "0" }}
-              mt={{ base: "0", md: "0.625rem" }}
-              display={"flex"}
-            >
+          
+               <Flex
+            justifyContent="center" 
+            flex="1" 
+            ml={{ base: "0", md: "50px" }}
+            mt={{ base: "0", md: "0.625rem" }}
+          >
               <Link to="/">
                 {" "}
                 <Image
@@ -179,7 +182,7 @@ export const Navbar = () => {
                   alt=""
                 />
               </Link>
-            </Box>
+              </Flex>
           )}
           <Box
             w={{ base: "12rem", md: "24rem" }}

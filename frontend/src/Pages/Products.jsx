@@ -4,7 +4,7 @@ export const Products = ({ cat }) => {
   const [dbdata, setData] = useState([]);
   const [loading,setLoading]=useState(true);
   const allData = async () => {
-    let res = await fetch("http://localhost:3030/data");
+    let res = await fetch("http://localhost:5000/products");
     let resp = await res.json();
 
     if (cat === "men") {
@@ -14,15 +14,12 @@ export const Products = ({ cat }) => {
     } else {
       setData(resp[0].kid);
     }
-    // setLoading(false);
+
   };
 
   useEffect(() => {
     allData();
-    // setLoading(false);
+
   }, [cat]);
-  // if(loading){
-  //   return [];
-  // }
   return dbdata;
 };

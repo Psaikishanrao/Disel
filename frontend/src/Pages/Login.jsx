@@ -6,7 +6,6 @@ import { useNavigate } from "react-router-dom";
 
 export const Login=()=>{
     const {isLogin,handleLogin}= useContext(loginContext);
-    // console.log(isLogin,handleLogin);
     const{checkUserExist, passwordCheck}= useContext(userContext);
     const initialValue={
         email: "",
@@ -67,11 +66,6 @@ export const Login=()=>{
     },[formErrors, isSubmit])
     
     return(!isLogin?
-        // <div>
-        //     <h1 style={{marginBottom: "20px"}}>{isLogin?"Logged-In":"Please Log-In First"}</h1>
-        //     <button onClick={handleLogin}><Button colorScheme="teal" variant={"solid"}>{isLogin?"Log-Out":"Log-In"}</Button></button>
-        // </div>
-        // <Box w={["full","md"]}
         <Box mb={"40px"} w={{sm: "md", md: "md", lg: "md", xl: "lg"}}
         p={[8,10]}
         mt={[20, '10vh']}

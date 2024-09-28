@@ -22,50 +22,20 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 export const Home=()=>{
-  /*var settings = {
-    slidesToShow: 5,
-    slidesToScroll: 1,
-    autoplay: true,
-    autoplaySpeed: 2000,
-  arrows:true,
-  };*/
-  //const breakpoints = ['0em', '30em', '48em', '62em', '80em', '96em']
 
-      var settings = {
-        dots: false,
-        infinite: true,
-        speed: 500,
-        slidesToShow: 4,
-        slidesToScroll: 4,
-        initialSlide: 0,
-        responsive: [
-          {
-            breakpoint: 1024,
-            settings: {
-              slidesToShow: 3,
-              slidesToScroll: 3,
-              //infinite: true,
-              //dots: true
-            }
-          },
-          {
-            breakpoint: 600,
-            settings: {
-              slidesToShow: 2,
-              slidesToScroll: 2,
-              initialSlide: 2
-            }
-          },
-          {
-            breakpoint: 480,
-            settings: {
-              slidesToShow: 1,
-              slidesToScroll: 1
-            }
-          }
-        ]
-      };
- 
+  var settings = {
+    dots: false,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 4,
+    slidesToScroll: 4,
+    responsive: [
+      { breakpoint: 1024, settings: { slidesToShow: 3, slidesToScroll: 3 } },
+      { breakpoint: 600, settings: { slidesToShow: 2, slidesToScroll: 2 } },
+      { breakpoint: 480, settings: { slidesToShow: 1, slidesToScroll: 1 } }
+    ]
+  };
+
     
     return(
       
@@ -75,7 +45,7 @@ export const Home=()=>{
         // width={1336}
         // height={591}
      h={'auto'} w={'100%'}
-        src="https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/original/banner/1689920815320-635_5.webp?compress=true&q=1&w=100&h=100"
+       src="https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/original/banner/1714629105D1.webp?compress=true&q=70"
         alt="img" />
         </Box>
     </div>

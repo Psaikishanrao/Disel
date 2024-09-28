@@ -5,19 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is an ecommerce platform, clone of www.diesel.com
 
-This project is developed by members of TEAM Bug-Buster.
-Bug-Buster Team-
-1. Ankit kumar
-2. Sai Kishan Rao
-3. Sanghamitra Dash
-4. Shristi Mohapatra
-5. Shreeyam Mohanty
-6. Puja Kumari
+
 
 ## To use this project
 
- - [Fork it in your repository](https://github.com/Ankit-saw07/bugbuster)
- - [Clone it in your local folder using https/ssh link](https://github.com/Ankit-saw07/bugbuster.git)
+ - [Fork it in your repository](https://github.com/Psaikishanrao/Disel)
+ - [Clone it in your local folder using https/ssh link](https://github.com/Psaikishanrao/Disel.git)
 
 - Host the db.json file in local port(json-server --watch db.json --port 3030)
 - Detailed steps are mentioned below
@@ -27,7 +20,7 @@ Bug-Buster Team-
 Steps for working in github:-
 1. make a new folder in your system.
 2. open the new folder in vs code and write in terminal
-git clone https://github.com/Ankit-saw07/bugbuster.git
+git clone (https://github.com/Psaikishanrao/Disel.git)
 3. go to the working folder
 4. npm install (to install all the dependencies,write this in bash terminal)
 5. npm start (to start the react app)
@@ -45,7 +38,7 @@ Steps to make your own branch and commit:-
   git stash
 
 ## Using netlify link.
-- [Netlify App](https://github.com/Ankit-saw07/bugbuster](https://64c4890b6d214d2e76be1f30--storied-churros-9ccf82.netlify.app/)
+- (Hosted on vercel)https://disel-ebon.vercel.app/
 - To use the link, host the db.json filr in your local host in port 3030
 - db.json file is available in the source code
 

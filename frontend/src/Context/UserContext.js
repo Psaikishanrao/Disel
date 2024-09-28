@@ -3,7 +3,7 @@ import { createContext, useState } from "react";
 export const userContext= createContext();
 
 export const UserContext=({children})=>{
-    let api= "http://localhost:3030/userData";
+    let api= "http://localhost:5000/users";
     const[users,setUsers]= useState([]);
     // console.log(users);
    const fetchData= async ()=>{

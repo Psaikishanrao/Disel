@@ -60,7 +60,7 @@ export const SingleProduct = () => {
       </Box>
 
       {/* Details Section */}
-      <Box flex="1" maxWidth={{ base: "100%", md: "60%" }}>
+      <Box flex="1" maxWidth={{ base: "100%", md: "60%" }} marginTop={'50px'}>
         <Text
           fontSize={{ base: "xl", md: "2xl" }}
           fontWeight="bold"

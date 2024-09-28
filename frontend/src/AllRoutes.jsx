@@ -30,14 +30,6 @@ export const AllRoutes = () => {
       <Route path="/Adminlogin" element={<AdminLogin/>}></Route>
       <Route path="/Cart" element={<PrivateRoute><Cart/></PrivateRoute>}></Route>
       <Route path="/Adminpage" element={<AdminPage/>}></Route>
-      {/* <Route
-        path="/product/:id"
-        element={
-          <PrivateRoute>
-            {/* <SingleProduct /> */}
-          {/* </PrivateRoute>
-        }
-      ></Route> */} 
       <Route path="/login" element={<Login />}></Route>
       <Route path="/signup" element={<Signup />}></Route>
       <Route path="/wish" element={<PrivateRoute><WishList /></PrivateRoute>}></Route>
