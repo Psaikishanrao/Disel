@@ -4,7 +4,7 @@ export const Products = ({ cat }) => {
   const [dbdata, setData] = useState([]);
   const [loading,setLoading]=useState(true);
   const allData = async () => {
-    let res = await fetch("http://localhost:5000/products");
+    let res = await fetch("https://disel.onrender.com/products");
     let resp = await res.json();
 
     if (cat === "men") {
