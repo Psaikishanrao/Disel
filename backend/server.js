@@ -8,21 +8,13 @@ dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
-const allowedOrigins = [
-  "https://disel-599ml3dtp-psaikishanraos-projects.vercel.app"
-];
 
 app.use(cors({
-  origin: function (origin, callback) {
-    if (!origin || allowedOrigins.includes(origin)) {
-      callback(null, true);
-    } else {
-      callback(new Error("Not allowed by CORS"));
-    }
-  },
+  origin: "*", // Allows all origins
   methods: ["GET", "POST", "PUT", "DELETE"],
-  credentials: false, // or true if you need to allow cookies
+  credentials: false,
 }));
+
 
 app.use(express.json());
 
