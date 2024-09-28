@@ -8,11 +8,13 @@ dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
-
 app.use(cors({
-  origin: "*", // Allows all origins
+  origin: [
+    "https://disel-git-main-psaikishanraos-projects.vercel.app",
+    "https://disel-ebon.vercel.app"
+  ],
   methods: ["GET", "POST", "PUT", "DELETE"],
-  credentials: false,
+  credentials: false, 
 }));
 
 
