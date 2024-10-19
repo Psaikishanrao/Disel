@@ -1,11 +1,13 @@
----
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # WWW.DIESEL.COM
 
-This project is an e-commerce platform, a clone of www.diesel.com, developed by members of TEAM Bug-Buster.
+This project is an ecommerce platform, clone of www.diesel.com
 
-## Bug-Buster Team
-1. Ankit Kumar
+This project is developed by members of TEAM Bug-Buster.
+Bug-Buster Team-
+1. Ankit kumar
 2. Sai Kishan Rao
 3. Sanghamitra Dash
 4. Shristi Mohapatra
@@ -14,67 +16,34 @@ This project is an e-commerce platform, a clone of www.diesel.com, developed by 
 
 ## To use this project
 
-- [Fork it in your repository](https://github.com/Ankit-saw07/bugbuster)
-- [Clone it in your local folder using https/ssh link](https://github.com/Ankit-saw07/bugbuster.git)
+ - [Fork it in your repository]()
+ - [Clone it in your local folder using https/ssh link]()
 
-- The backend server is built using Node.js and MongoDB, and it is deployed on Render.
 
-## Steps to set up the project locally
 
-### Clone the repository:
-1. Create a new folder on your system.
-2. Open the folder in VS Code and run the following command in the terminal:
-   ```bash
-   git clone https://github.com/Ankit-saw07/bugbuster.git
-   ```
-3. Navigate to the project folder:
-   ```bash
-   cd bugbuster
-   ```
-4. Install all dependencies for the React app:
-   ```bash
-   npm install
-   ```
-5. Start the React app:
-   ```bash
-   npm start
-   ```
-
-### Backend Setup
+## Backend Setup
 The backend server uses Node.js and MongoDB and is deployed on Render. To connect the frontend with the backend:
 
-1. Ensure your MongoDB instance is running or connected through a cloud provider like MongoDB Atlas.
-2. The backend API is already deployed on Render at [your-backend-render-url]. This handles the database interactions and API requests.
-   
-No need for local JSON server anymore!
+Ensure your MongoDB instance is running or connected through a cloud provider like MongoDB Atlas.
+The backend API is already deployed on Render at [https://disel-1.onrender.com]. This handles the database interactions and API requests.
 
-## Steps for working with Git:
+Steps to make your own branch and commit:-
+1. git branch branch-name (to create your own branch)
+2. git checkout branch-name (to move to your branch, now you can work in that branch)
+3. git branch(to see all the branches , green colour will show in which branch you are currently)
+4. To cimmit any changes-
+  a. git add .
+  b. git commit -m "message"
+  c. git push origin branch-name(to push in your branch)
+5. Incase there is any error in your changes you can move to the previous uncommited code by
+  git stash
 
-1. To create your own branch:
-   ```bash
-   git branch branch-name
-   ```
-2. Switch to your branch:
-   ```bash
-   git checkout branch-name
-   ```
-3. To check branches:
-   ```bash
-   git branch
-   ```
-4. To commit and push changes:
-   ```bash
-   git add .
-   git commit -m "message"
-   git push origin branch-name
-   ```
-5. In case of errors, you can revert to uncommitted code:
-   ```bash
-   git stash
-   ```
+## Using Vercel link.
+- [Netlify App](https://github.com/Ankit-saw07/bugbuster](https://64c4890b6d214d2e76be1f30--storied-churros-9ccf82.netlify.app/)
 
-## Hosted Application
 
-You can access the live version of the application here: [Netlify App]().
 
----
+
+
+
+
