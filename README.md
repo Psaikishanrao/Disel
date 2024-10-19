@@ -16,8 +16,8 @@ Bug-Buster Team-
 
 ## To use this project
 
- - [Fork it in your repository]()
- - [Clone it in your local folder using https/ssh link]()
+ - [Fork it in your repository](https://github.com/Psaikishanrao/Disel.git)
+ - [Clone it in your local folder using https/ssh link](https://github.com/Psaikishanrao/Disel.git)
 
 
 
@@ -39,7 +39,7 @@ Steps to make your own branch and commit:-
   git stash
 
 ## Using Vercel link.
-- [Netlify App](https://github.com/Ankit-saw07/bugbuster](https://64c4890b6d214d2e76be1f30--storied-churros-9ccf82.netlify.app/)
+- [Vercel App](https://github.com/Psaikishanrao/Disel.git)(https://disel-ebon.vercel.app)
 
 
 
